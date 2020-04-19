@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="282mm"
+   height="210mm"
+   viewBox="0 0 1065.8268 793.7008"
+   sodipodi:docname="Maskenschnitt-Laser-L-innen.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:label="BottomL">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     id="namedview4"
+     showgrid="false"
+     inkscape:document-units="mm"
+     units="mm"
+     inkscape:snap-text-baseline="false"
+     inkscape:zoom="0.45845385"
+     inkscape:cx="921.76074"
+     inkscape:cy="7.5520396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="TopL"
+     transform="translate(0,-328.8189)">
+    <path
+       style="fill:none;stroke:#000017;stroke-width:1.13385832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 522.90669,992.21509 c -40.69367,51.33291 -97.23478,92.51211 -145.44577,129.48221 0,0 -85.2592,-130.82483 -115.29237,-156.97501 C 232.78361,939.13654 196.67904,897.47434 104.87999,868.73497 72.55934,859.77761 22.16205,858.86664 0.56764024,858.49136 l 0.41934,-328.77607 C 32.93465,529.2948 15.93827,529.48238 45.77364,527.94156 200.87141,514.01373 256.51218,479.28538 362.53638,397.28122 c 17.16971,-13.27986 78.77877,-64.89326 78.77877,-64.89326 l 91.34639,133.91653 91.34771,-133.91653 c 0,0 61.60906,51.6134 78.77877,64.89326 106.0242,82.00416 161.66493,116.73251 316.76268,130.66034 29.8354,1.54082 25.3812,1.48957 44.7867,1.77373 l 0.4434,328.72787 c -10.0892,-0.18952 -67.79557,1.53653 -104.33637,10.29181 -91.79908,28.73937 -127.90368,70.40157 -157.28858,95.98732 -30.03317,26.15018 -115.29237,156.97501 -115.29237,156.97501 -48.21099,-36.9701 -104.7521,-78.1493 -145.44577,-129.48221 -7.98178,-11.52926 -9.75617,-15.07671 -9.75617,-15.07671 0,0 -1.77307,3.54745 -9.75485,15.07671 z"
+       id="path3715"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccccscccsccccscccc" />
+  </g>
+</svg>
