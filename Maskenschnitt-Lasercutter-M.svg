@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="313mm"
+   width="569mm"
    height="172mm"
-   viewBox="0 0 1182.9903 650.07875"
-   sodipodi:docname="Maskenschnitt-Laser-M-aussen.svg"
+   viewBox="0 0 2150.5485 650.07875"
+   sodipodi:docname="Maskenschnitt-Lasercutter-M.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:label="BottomL">
   <metadata
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,13 +47,13 @@
      inkscape:document-units="mm"
      units="mm"
      inkscape:snap-text-baseline="false"
-     inkscape:zoom="2.5934066"
-     inkscape:cx="162.19789"
-     inkscape:cy="594.83202"
+     inkscape:zoom="0.45845385"
+     inkscape:cx="1463.1277"
+     inkscape:cy="-46.142163"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g838"
      width="298mm" />
   <g
      inkscape:groupmode="layer"
@@ -82,19 +82,45 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.66665363px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f20000;fill-opacity:1;stroke:none;stroke-width:0.99999875;"
+       style="font-style:normal;font-weight:normal;font-size:10.66665363px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f20000;fill-opacity:1;stroke:none;stroke-width:0.99999875"
        x="205.66136"
        y="545.46045"
        id="text965"><tspan
          sodipodi:role="line"
          x="205.66136"
          y="545.46045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666584px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#f20000;fill-opacity:1;stroke-width:0.99999875;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666584px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#f20000;fill-opacity:1;stroke-width:0.99999875"
          id="tspan971">Medium</tspan><tspan
          sodipodi:role="line"
          x="205.66136"
          y="572.12714"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666584px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#f20000;fill-opacity:1;stroke-width:0.99999875;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666584px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#f20000;fill-opacity:1;stroke-width:0.99999875"
          id="tspan831">Aussenstoff</tspan></text>
+    <g
+       id="g838"
+       transform="translate(10.796611,-2.4438648)">
+      <path
+         sodipodi:nodetypes="sscsssccccscccsccccssscsscs"
+         inkscape:connector-curvature="0"
+         id="path856-5-3"
+         d="m 1681.2764,1030.5 c 13.8814,15.4237 25.2256,31.0281 81.1674,73.0699 5.7358,4.3106 23.5212,17.5445 24.2924,17.7373 0.7712,0.1928 17.8708,-27.6218 22.5572,-34.7034 8.6758,-13.1102 38.3253,-45.6507 67.6716,-67.0932 39.2407,-28.67208 94.0916,-50.30731 108.1589,-56.48951 48.0116,-21.0999 146.5255,-25.642 146.5255,-25.642 81.6103,-4.9137 81.6103,-4.9137 0,0 l -0.6018,-328.76098 v 0 c -113.4195,-1.82349 -178.1207,-12.48901 -235.7669,-36.203 -54.9192,-22.59215 -160.0212,-99.29025 -160.0212,-99.29025 l -73.7106,107.32746 -73.7065,-107.44796 c 0,0 -105.1021,76.6981 -160.0212,99.29025 -57.6462,23.71399 -122.3475,34.37951 -235.7669,36.203 v 0 l -0.6018,328.76098 c -81.6104,-4.9137 -81.6104,-4.9137 0,0 0,0 98.5139,4.5421 146.5255,25.642 14.0672,6.1822 68.9182,27.81743 108.1589,56.48951 29.3463,21.4425 58.9957,53.983 67.6716,67.0932 4.6863,7.0816 21.786,34.8962 22.5572,34.7034 0.7712,-0.1928 18.5565,-13.4267 24.2924,-17.7373 55.9417,-42.0418 67.286,-57.6462 81.1673,-73.0699 13.8814,-15.4238 19.7235,-30.2089 19.7235,-30.2089 0,0 5.8462,14.9056 19.7275,30.3294 z"
+         style="fill:none;stroke:#000000;stroke-width:1.13385832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text965-6"
+         y="519.32495"
+         x="1305.3861"
+         style="font-style:normal;font-weight:normal;font-size:10.66665363px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.99999875"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666584px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.99999875"
+           id="tspan967"
+           y="519.32495"
+           x="1305.3861"
+           sodipodi:role="line">Medium</tspan><tspan
+           id="tspan971-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666584px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.99999875"
+           y="545.99164"
+           x="1305.3861"
+           sodipodi:role="line">Innenstoff</tspan></text>
+    </g>
   </g>
 </svg>

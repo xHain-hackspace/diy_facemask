@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -48,7 +48,7 @@
      units="mm"
      inkscape:snap-text-baseline="false"
      inkscape:zoom="1.2967033"
-     inkscape:cx="475.54716"
+     inkscape:cx="340.58953"
      inkscape:cy="308.2757"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -83,7 +83,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:2.29999995"
            y="630.86542"
            x="228.81909"
-           sodipodi:role="line">Aussenstoff</tspan></text>
+           sodipodi:role="line">Innenstoff</tspan></text>
       <flowRoot
          transform="translate(-66.892221,127.13568)"
          style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -107,5 +107,15 @@
              width="706.4068"
              id="rect972-8" /></flowRegion><flowPara
            id="flowPara974-6" /></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="71.720337"
+       y="625.1048"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         x="71.720337"
+         y="633.20898" /></text>
   </g>
 </svg>
